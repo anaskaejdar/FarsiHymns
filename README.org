@@ -19,9 +19,10 @@ the =LICENSES.d/= directory for full texts.
 
 - Commercial publication or commercial distribution in any form
 - Sharing of formatted or beautified editions (eg. PDF, Word, LaTeX, etc.)
-- Redistributing without inclusion of the contents of the =LICENSES.d= directory.
+- Redistributing without inclusion of the contents of the =LICENSES.d=
+  directory.
 
-The reason: we intend to publish these hymns in professionally typeset books. If
-polished digital editions were freely available, it would undermine that goal.
-The plaintext versions here are free for liturgical and collaborative use, while
-rights to produce finished editions remain with the Licensor.
+The reason: We hope to publish these hymns in professionally typeset books. If
+polished digital editions were freely available, it would severely undermine
+that goal. The plaintext versions here are free for liturgical and collaborative
+use, while rights to produce finished editions remain with the Licensor.
