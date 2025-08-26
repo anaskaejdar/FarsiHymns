@@ -1,5 +1,5 @@
-#+title: License Addendum – Plaintext Restriction
-#+licensor: Zachari Khayati Darian
+#+title: License Addendum – Plaintext Restriction #+licensor: Zachari Khayati
+Darian
 
 * License Addendum – Plaintext Restriction
 
@@ -28,23 +28,24 @@ following forms:*
 
 ** 3. Restrictions on permitted formats
 
-Redistribution in .org or .txt formats is allowed only if the content remains
-strict plaintext, meaning:
+Redistribution in =.org= or =.txt= formats is allowed only if the content
+remains strict plaintext, meaning:
 - No Markdown syntax (nor Markdown derivatives, ie. CommonMark, Github-flavored
   Markdown, etc.)
 - No LaTeX or TeX code
 - No HTML, XML, or other markup tags
 - No embedded code blocks in *any* programming language
 - No binary content or disguised files (e.g., a PDF renamed as =.txt=)
-- Only standard Org formatting and plain text are allowed in .org files
+- Only standard Org formatting and plain text are allowed in =.org= or =.txt=
+  files:
   + Only headings, lists, plain text, and basic inline markup (bold, italic,
     underline, verbatim, links) as defined in the GNU Emacs Org Mode manual are
-    allowed in .org files.
+    allowed in =.org= files.
   + Tables are permitted only in their plain ASCII form (rows of | and -
     characters). They must not include formulas, dynamic fields, or export
     directives.
-  + All other features, including but not limited to embedded code blocks,
-    LaTeX fragments, or export directives, are prohibited.
+  + All other features, including but not limited to embedded code blocks, LaTeX
+    fragments, or export directives, are prohibited.
 - Files *must* be encoded as UTF-8 plaintext.
 
 Any attempt to circumvent these format restrictions, whether by obfuscation,
