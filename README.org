@@ -2,27 +2,30 @@
 
 We are translating hymns, poems, and prayers into Persian for liturgical use.
 
-/*Note:*/ This project uses *CC-BY-NC 4.0* with /additional stipulations/. See
-the =LICENSES.d/= directory for full texts.
+/*Note:*/ This project uses *CC-BY-NC-ND 4.0* with /an addendum granting limited
+derivative rights/. See the =LICENSES.d/= directory for full texts.
 
 * How You May Use this Project
 
-- These hymns are free to use in church services.
-- You may adapt them and edit them as needed.
-- You may /share/ your modified versions freely with others, provided that they
-  *remain in plain text* (=.txt=) or Org-Mode (=.org=) format (as described in
-  =LICENSES.d/ADDITIONAL_STIPULATIONS.org=)
-- You are encouraged to submit your modifications for inclusion in this
-  repository.
+- *Free for churches:* You can use these hymns in services with no restrictions.
+- *Edits allowed:* You may adapt or edit these texts, but only in plain text
+  (=.txt=) or Org Mode (=.org=) files.
+- *Share freely:* You may /share/ your modified versions freely with others, as
+  long as you /keep them in plain text or Org-Mode format/ and package all the
+  license files with them, unaltered.
+- *Contribution:* You are /invited and encouraged/ to submit your modifications
+  for inclusion in this repository. If your edits are accepted into the main
+  project, your name (or chosen pseudonym) will be credited both here in this
+  repository and in any official published edition.
 
 * What is Not Allowed
 
-- Commercial publication or commercial distribution in any form
-- Sharing of formatted or beautified editions (eg. PDF, Word, LaTeX, etc.)
-- Redistributing without inclusion of the contents of the =LICENSES.d=
-  directory.
+- You may not publish or distribute these hymns commercially in any form.
+- You may not share formatted or beautified editions (PDF, Word, LaTeX, etc.)
+- You may not redistribute these hymns without full inclusion of the unaltered
+  contents of the =LICENSES.d/= directory.
 
-The reason: We hope to publish these hymns in professionally typeset books. If
-polished digital editions were freely available, it would severely undermine
-that goal. The plaintext versions here are free for liturgical and collaborative
-use, while rights to produce finished editions remain with the Licensor.
+We intend to publish these hymns in professionally typeset books. Until that
+time, keeping digital editions in simple plaintext formats gives us the
+framework for open collaboration and free liturgical use, whilst also helping to
+ensure our ability to release polished printed editions in the future.

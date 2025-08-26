@@ -1,8 +1,9 @@
-#+title: License Addendum – Plaintext Restriction
+#+title: License Addendum – Limited Derivative Rights
 
-This project is licensed under the *Creative Commons Attribution–NonCommercial
-4.0 International (CC BY-NC 4.0)* license, *supplemented by the following
-additional stipulations, which shall prevail in case of conflict.*
+This project is licensed under the *Creative Commons
+Attribution–NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)*
+license, *supplemented by the following additional stipulations, which shall
+prevail in case of conflict.*
 
 For the purposes of this Addendum:
 - "Strict plaintext" means UTF-8 encoded text without markup other than what is
@@ -17,17 +18,30 @@ For the purposes of this Addendum:
 - The "Licensor" refers specifically to the original maintainer of this
   repository: /Zachari Khayati Darian./
 
-* 1. Redistribution
+* 1. Grant of Limited Derivative Rights
 
-Redistribution is authorized *only* when accompanied by a copy of this addendum.
+Notwithstanding Section 2(a)(1)(B) of the base license, the Licensor hereby
+grants a limited, non-exclusive, non-transferable, and royalty-free right to
+create derivative works of the Licensed Material solely under the following
+conditions:
+- Derivative works must be created and shared exclusively in the following
+  formats: =.org= (Org mode) and =.txt= (strict plaintext).
+- Derivative works created under this exception must themselves remain subject
+  to this License and Addendum.
+- The Licensor guarantees that all contributors of accepted derivative works
+  will be credited by name (or chosen pseudonym) both within the repository
+  itself and in any officially published edition of the Licensed Material.
 
-* 2. Permitted formats
+* 2. Redistribution
 
 Redistribution or sharing of the Licensed Material is permitted *only in the
 following forms:*
 
 - =.org= (Org mode)
 - =.txt= (strict plaintext)
+
+Redistribution is authorized *only* when accompanied by an unaltered copy of the
+base license together with an unaltered copy of this addendum.
 
 * 3. Restrictions on permitted formats
 
@@ -47,6 +61,15 @@ remains strict plaintext, meaning:
     plain text in natural languages (as defined above), and basic inline markup
     (bold, italic, underline, verbatim, links) as defined in the GNU Emacs Org
     Mode manual are allowed in =.org= files.
+  + For the avoidance of doubt, specialized orthographic forms (including but
+    not limited to Persian glyph variants such as ڤ, ڡ, ۆ, ێ, and diacritic
+    usage) and liturgical or metrical notation (including but not limited to
+    parallage markers, verse dividers, and custom symbols for chant or rhythm)
+    are considered integral to the natural-language content and are expressly
+    permitted. Such features shall not be construed as markup or prohibited
+    code. The Licensor may extend this list of permitted orthographic or
+    liturgical symbols in the repository’s documentation without constituting a
+    modification of this license.
   + Tables are permitted only in their plain ASCII form (rows of =|= and =-=
     characters). They must not include formulas, dynamic fields, or export
     directives.
@@ -56,7 +79,8 @@ remains strict plaintext, meaning:
 
 Any attempt to circumvent these format restrictions, whether by obfuscation,
 renaming, or embedding prohibited content, constitutes a violation of this
-license.
+license. Violation of any part of this addendum shall be considered a violation
+of the base license and shall be subject to its terms of termination.
 
 * 4. Prohibited formats
 
@@ -69,9 +93,3 @@ medium is prohibited,* including *but not limited to:*
 - OpenDocument formats (=.odt=, =.ods=)
 - Markdown (=.md=)
 - HTML or web formats (=.html=, =.htm=)
-
-* 5. Publication rights
-
-The Licensor exclusively reserves all rights to publish, distribute, or
-authorize redistribution of the Licensed Material in any format other than
-=.txt= or =.org= as defined above.
