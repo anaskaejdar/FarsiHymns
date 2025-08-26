@@ -10,6 +10,10 @@ For the purposes of this Addendum:
 - "Redistribution" means any act of sharing, copying, transmitting, or making
   available the Licensed Material to third parties, whether privately or
   publicly.
+- "Natural languages" refers to human spoken languages used by communities (eg.
+  English, Persian, and Greek). Constructed languages (eg. Esperanto and Toki
+  Pona) and all programming languages and domain-specific languages are /not/
+  considered natural languages.
 - The "Licensor" refers specifically to the original maintainer of this
   repository: /Zachari Khayati Darian./
 
@@ -39,9 +43,10 @@ remains strict plaintext, meaning:
   or audio file)
 - Only standard Org formatting and plain text are allowed in =.org= or =.txt=
   files:
-  + Only headings, lists, plain text, and basic inline markup (bold, italic,
-    underline, verbatim, links) as defined in the GNU Emacs Org Mode manual are
-    allowed in =.org= files.
+  + Only headings, lists, timestamps, checkboxes, =TODO= and =DONE= keywords,
+    plain text in natural languages (as defined above), and basic inline markup
+    (bold, italic, underline, verbatim, links) as defined in the GNU Emacs Org
+    Mode manual are allowed in =.org= files.
   + Tables are permitted only in their plain ASCII form (rows of =|= and =-=
     characters). They must not include formulas, dynamic fields, or export
     directives.
@@ -67,6 +72,6 @@ medium is prohibited,* including *but not limited to:*
 
 * 5. Publication rights
 
-The Licensor reserves all rights to publish, distribute, or authorize
-redistribution of the Licensed Material in any format other than =.txt= or
-=.org= as defined above.
+The Licensor exclusively reserves all rights to publish, distribute, or
+authorize redistribution of the Licensed Material in any format other than
+=.txt= or =.org= as defined above.
