@@ -1,0 +1,39 @@
+#+title: License Addendum – Plaintext Restriction
+#+licensor: Zachari Khayati Darian (whose ecclesiastical name is Anastazius Khayatidaryan)
+
+* License Addendum – Plaintext Restriction
+
+This project is licensed under the *Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)* license, *with the following additional stipulations imposed by the Licensor.*
+
+** 1. Permitted formats
+
+Redistribution or sharing of the Licensed Material is permitted *only in the following forms:*
+
+- =.org= (Org mode)
+- =.txt= (strict plaintext)
+
+** 2. Restrictions on permitted formats
+
+Redistribution in .org or .txt formats is allowed only if the content remains strict plaintext, meaning:
+- No Markdown syntax (nor Markdown derivatives, ie. CommonMark, Github-flavored Markdown, etc.)
+- No LaTeX or TeX code
+- No HTML, XML, or other markup tags
+- No embedded code blocks in any programming language
+- No binary content or disguised files (e.g., a PDF renamed as =.txt=)
+- Only standard Org headings, lists, and plain text are allowed in .org files
+- Files *must* be encoded as UTF-8 plaintext.
+
+** 3. Prohibited formats
+
+Redistribution or sharing of the Licensed Material in any other format or medium is prohibited, including but not limited to:
+- PDF (=.pdf=)
+- LaTeX source (=.tex=)
+- Rich Text (=.rtf=)
+- Microsoft Word (=.doc=, =.docx=)
+- OpenDocument formats (=.odt=, =.ods=)
+- Markdown (=.md=)
+- HTML or web formats (=.html=, =.htm=)
+
+** 4. Publication rights
+
+The Licensor reserves all rights to publish, distribute, or authorize redistribution of the Licensed Material in any format other than .txt or .org as defined above.
