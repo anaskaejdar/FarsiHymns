@@ -1,0 +1,8 @@
+#+title: FarsiHymns
+
+*/Note:/* This project uses *CC-BY-NC 4.0* with /additional stipulations/. See the =LICENSES/= directory for full texts.
+
+* FarsiHymns
+
+We are translating hymns, poems, and prayers into Persian for liturgical use.
+
