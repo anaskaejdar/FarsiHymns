@@ -1,5 +1,4 @@
 #+title: License Addendum – Plaintext Restriction
-#+licensor: Zachari Khayati Darian
 
 This project is licensed under the *Creative Commons Attribution–NonCommercial
 4.0 International (CC BY-NC 4.0)* license, *supplemented by the following
@@ -10,6 +9,8 @@ For the purposes of this Addendum:
 explicitly permitted in Section 3.
 - "Redistribution" means any act of sharing, copying, transmitting, or making
 available the Licensed Material to third parties, whether privately or publicly.
+- The "Licensor" refers specifically to /Zachari Khayati Darian,/ who is the
+maintainer of this repository.
 
 * 1. Redistribution
 
@@ -38,7 +39,7 @@ files:
 + Only headings, lists, plain text, and basic inline markup (bold, italic,
 underline, verbatim, links) as defined in the GNU Emacs Org Mode manual are
 allowed in =.org= files.
-+ Tables are permitted only in their plain ASCII form (rows of | and -
++ Tables are permitted only in their plain ASCII form (rows of =|= and =-=
 characters). They must not include formulas, dynamic fields, or export
 directives.
 + All other features, including but not limited to embedded code blocks, LaTeX
