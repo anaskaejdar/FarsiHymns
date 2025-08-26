@@ -6,11 +6,12 @@ additional stipulations, which shall prevail in case of conflict.*
 
 For the purposes of this Addendum:
 - "Strict plaintext" means UTF-8 encoded text without markup other than what is
-explicitly permitted in Section 3.
+  explicitly permitted in Section 3.
 - "Redistribution" means any act of sharing, copying, transmitting, or making
-available the Licensed Material to third parties, whether privately or publicly.
-- The "Licensor" refers specifically to /Zachari Khayati Darian,/ who is the
-maintainer of this repository.
+  available the Licensed Material to third parties, whether privately or
+  publicly.
+- The "Licensor" refers specifically to the original maintainer of this
+  repository: /Zachari Khayati Darian./
 
 * 1. Redistribution
 
@@ -29,21 +30,23 @@ following forms:*
 Redistribution in =.org= or =.txt= formats is allowed only if the content
 remains strict plaintext, meaning:
 - No Markdown syntax (nor Markdown derivatives, ie. CommonMark, Github-flavored
-Markdown, etc.)
+  Markdown, etc.)
 - No LaTeX or TeX code
 - No HTML, XML, or other markup tags
 - No embedded code blocks in *any* programming language
-- No binary content or disguised files (e.g., a PDF renamed as =.txt=)
+- No binary content or disguised files (e.g., a PDF renamed as =.txt=, or
+  material converted into or hidden within another media format such as an image
+  or audio file)
 - Only standard Org formatting and plain text are allowed in =.org= or =.txt=
-files:
-+ Only headings, lists, plain text, and basic inline markup (bold, italic,
-underline, verbatim, links) as defined in the GNU Emacs Org Mode manual are
-allowed in =.org= files.
-+ Tables are permitted only in their plain ASCII form (rows of =|= and =-=
-characters). They must not include formulas, dynamic fields, or export
-directives.
-+ All other features, including but not limited to embedded code blocks, LaTeX
-fragments, or export directives, are prohibited.
+  files:
+  + Only headings, lists, plain text, and basic inline markup (bold, italic,
+    underline, verbatim, links) as defined in the GNU Emacs Org Mode manual are
+    allowed in =.org= files.
+  + Tables are permitted only in their plain ASCII form (rows of =|= and =-=
+    characters). They must not include formulas, dynamic fields, or export
+    directives.
+  + All other features, including but not limited to embedded code blocks, LaTeX
+    fragments, or export directives, are prohibited.
 - Files *must* be encoded as UTF-8 plaintext.
 
 Any attempt to circumvent these format restrictions, whether by obfuscation,
