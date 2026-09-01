@@ -1,0 +1,933 @@
+تضرعات کوچک به تئوتوکوس
+
+
+
+LICENSING
+
+How you may use this project
+
+Free for churches: You can use these hymns in services with no restrictions.
+
+Edits allowed: You may adapt or edit these texts, but only in plain text (.txt) or within an instance of SymphoniaXDC.
+
+Share freely: You may share these texts and/or your modified versions of them freely with others, as long as you keep them in plain text format and package all the license files with them, unaltered.
+
+Contribution: You are invited and encouraged to submit your modifications for inclusion in this repository. If your edits are accepted into the main project, your name (or chosen pseudonym) will be credited both here in this repository and in any official published edition.
+
+What is Not Allowed
+
+You may not publish or distribute these hymns commercially in any form.
+
+You may neither print nor share formatted or beautified editions (PDF, Word, LaTeX, EPUB, HTML, etc.); not even for ecclesiastical use. You may, however, print the strictly plain-text version.
+
+You may not redistribute the document to a third-party via a separate instance of SymphoniaXDC, unless you have first obtained express permission from the Licensor to do so, and the Licensor must be present and participating as an active member within the immediate communication medium wherein the licenced material is shared, prior to it being shared.
+
+You may not redistribute these hymns without full inclusion of the unaltered contents of the LICENCE section in the APPENDIX of this document. We intend to publish these hymns in professionally typeset books. Until that time, keeping digital editions in simple plaintext formats gives us the framework for open collaboration and free liturgical use, whilst also helping to ensure our ability to release polished printed editions in the future.
+
+For More Information
+
+For a more comprehensive breakdown of the licensing terms, see the section LICENCES in the appendix.
+
+آغاز
+
+کاهن: متبارک خدای ماست همیشه، همینک، و تا ابدالآباد.
+
+کر: آمین.
+
+کاهن: اِی پادِشاهِ آسِمانی و تَسَلّی‌بَخش و روحِ حَقیقَت، که حُضورَت دَر هَر جا است و انبارَندۀِ هَمِگی هَستی. بیّا و دَر دِلِ ما ساکِن باش. ما را زِدای از هَر لَکه و گُناه و ما را نِجات فَرما اِی نیکو.
+
+قاری: آمین.
+
+
+
+دُعایِ سه‌قُدوس
+
+قاری: اِی خُدایِ قُدوس، اِی قَڤّیِ قُدوس، اِی جاڤیدِ قُدوس، به ما رحم نَمای. (سه بار)
+
+جَلال بَر پِدَر و پِسَر و روح‌اُلقُدُس؛ هَمینَک و هَمیشه و تا ابداُلآباد. آمین.
+
+اِی ثالَوثِ قُدوس به ما رَحم فَرمای. پَرڤَردِگار، ما را از گُناهانِ ما پاک کُن. اِی اُستاد، خَطاهایِ ما را به‌آمُرز. اِی قُدوس، بیماریِ ما را به جَلالِ نامِ تَو عِیادت و بِهبودی نمای.
+
+خُداڤَند، رَحمَت نَمای. (سه بار)
+
+جلال بر…؛ همینک و… آمین.
+
+اِی پِدَرِ ما که دَر آسِمان‌هائی، تَقدیس شَڤَد نامِ تَو! اِرادۀِ تَو چُنانکه در آسِمان بَر زَمین نیز انجام شَڤَد! نانِ روزانۀِ ما را اِمروز به ما بِدِه! و دیّونِ ما را بِبَخش چُنانکه ما نیز مَدیونانِ خَود را بَخشیده‌ایم. و ما را دَر ڤَسڤَسه مَیاڤَر بَلکه از شَریر ما را رَهائی دِه!
+
+کاهن: زیرا مَلَکوت و قُدرَت و جَلال از آنِ تَوست: از آنِ پِدَر و پِسَر و روح‌اُلقُدُس؛ هَمینَک و هَمیشه و تا ابَداُلآباد.
+
+قاری: آمین.
+
+
+
+۱۴۲مین مزمور
+
+خُداڤَند رَحمَت نَمای. (۱۲ بار)
+
+جلال بر…؛ همینک و… آمین.
+
+بیّا مَسیح را بِپَرَستیم، پادِشاهِ مان.
+
+بیّا بِپَرَستیم و بِخَمیم فُروتَن پیشِ مَسیح، پادِشاه و خُدای مان.
+
+بیّا بِپَرَستیم و دَراُفتیم فُروتَن پیشِ مَسیح، حَقیقَتاً خُدا و پادِشاهِ مان.
+
+
+
+—(در این موقع، ۱۴۲مین مزمور خْوانده شڤد (۱۴ ۳م بنا بر شماره‌گذاری عبری))—
+
+
+
+یهڤه خداست و تروپاریا
+
+یَهڤَه خُداست و جِلڤه بَر ما رُخشید. مُتِبارِک هَمان که می‌آیَد به عُنڤانِ خُداڤَند است.
+
+آیه‌ها:
+
+۱. یَهُڤَه را تَمجید کُنید زیرا که نیکو است! ڤَفادار‌ی‌اش ابَدی است!
+
+۲. هَمۀِ مِلَّت‌ها مَرا اِحاطه می‌کَردَند، با نامِ یَهُڤَه آن‌ها را با شَمشیر دَو نیم کَردم.
+
+۳. این کارِ یَهُڤَه است، دَر نَظَرِ ما شِگِفت‌اَنگیز است.
+
+
+
+(به لحن Ὁ ὑψωθεὶς ἐν τῷ Ϛαυρῷ)
+
+کر جنوبی:
+
+به࣪ تِئَوتَـــوکـــوس، عـــاصیّـــان بِ࣭شِتآبیم 𝂥𝂅𝂅𝃬 مآ مَساکیـــن زاـــنـــو زَنیـــم دَر تَوبه࣪ نیز 𝂥𝂅𝂅𝃬 دَ࣪ر نِدآ زَدَ࣪ن از تَ࣪هِ جان. 𝂥𝂅𝂅𝃬 اِ࣭ی بانو࣭ کُمَـــک و شَـــفَقَ࣪ت بَراـــیِ࣭ ما نَ࣪مـــا 𝂥𝂅𝂅𝃬 چَ࣪ون تَحتِ࣭ میرَـــندِگـــی از خَ࣪طایآنِ زیّـــادیم. 𝂥𝂅𝂅𝃪 دَ࣪ستِ خادِ࣭می خالې نَگُذآر. 𝂥𝂅𝂅𝃬 آی بی‌دِرَـــنگ چَـــون اُمېدِ تَنهـــامونی. 𝂥𝂅𝂅𝃪
+
+
+
+کر شمالی: جلال بر پدر و پسر و روح‌القدس؛ —(تکرارش کن)—
+
+
+
+کر جنوبی: همینک و همیشه و تا ابدالآباد. آمین.
+
+بانو به کِـــرداـــرهـــایِ پُـــرِ قُڤَّ࣪تَت 𝂥𝂅𝂅𝃬 هَرگِز ساکِـــت نَـــتَـــڤانیـــم؛ نالایِ࣭قیـــم. 𝂥𝂅𝂅𝃬 چَون اَ࣪گر نه ایستآدی تَو بَهرې شَفاعَـــت 𝂥𝂅𝂅𝃬 کی می‌رَهانیـــد ما راـــ زېن انبــــوهِ خَطَ࣪رهـــا؟ 𝂥𝂅𝂅𝃬 کی ما را نِگَـــه می‌داـــشت حَقاً آزآد تا به حـــال نیـــز؟ 𝂥𝂅𝂅𝃪 اَ࣪ز تَو هیچ بَ࣪رنَگَردېم چَون مُدآم 𝂥𝂅𝂅𝃬 می‌رَهانـــی هَـــر خادِ࣭مَت از هَـــر بَلـــا (𝂥𝂅𝂅𝃪) 𝂥𝂅𝂅𝃬
+
+
+
+۵۰مین مزمور
+
+—(در این موقع ۵۰مین مزمور خْوانده شڤد. مطابق شماره‌گذاریِ عبری، ۵۱م هست)–
+
+
+
+اڤّلین ترانە
+
+هیرمَوس
+
+ناخوانده:
+
+دَر گُذَ࣪ر از دَریـــا چَون زَمېنِ خُشک، 𝂨𝃫 دَ࣪ر فَرار از مِـــصر، ڤَـــز 𝂣𝃩 فَلاکـــاتِ هَمآن دیّآر، 𝂨𝃫 اِسرآئیلې نِدآ زَد فَریـــاد: 𝂩𝃭 نِجات‌بَ࣪خش و خُداـــ را صِدآ زَنیم 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+زِ ڤَ࣪سڤَسه‌هـــا اِحاطە شُدهٰ‌م. 𝂨𝃫 به دُنبآلِ رَهایـــی، مَـــن 𝂣𝃩 به پَنـــاهَت دَڤآن آیَم. 𝂨𝃫 اِی مادَ࣪رِ کَلآم، دائِ࣭ماً باکِره، 𝂩𝃭 از مُشکِ࣭ل و خَطَـــر رَهایې‌ام ده. 𝂨𝃫
+
+
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+یورِ࣭شِ هَڤَـــس می‌لَرزآنَندَم؛ 𝂨𝃫 قَ࣪طعِ اُمیـــد تَــ𝂣𝃩ــمامِ رـــوحَم‌و فِشُردهٰ‌ست. 𝂨𝃫 با صُ࣪لحِ پِسَ࣪ر و خُداـــیـَــت 𝂩𝃭 آرامِ࣭شَم ده، اِـــی باکِرۀِ پاک. 𝂨𝃫
+
+
+
+کر جنوبی: جلال بر پدر و پسر و روح‌القدس؛
+
+ناجې را زاده‌ـــ‌ای کە هَم خُداست. 𝂨𝃫 بآخْواهِ࣭شَم کَـــز پَــ𝂣𝃩ــریشانـــی رَها بِشَڤَـم 𝂨𝃫 به حِ࣭فظِ جآنَم پَنـــاه ده 𝂩𝃭 فَدآیِ تَـــو کُنَم جـــانَم و دِ࣭لَم را. 𝂨𝃫
+
+
+
+کر شمالی: همینک و همیشه و تا ابدالآباد. آمین.
+
+گَ࣪رچە مَریـــض ام— بَدَ࣪ن و جان— 𝂨𝃫 مادَ࣪رِ بَغِ رـــاست، مَــ𝂣𝃩ــرا لایِــقِ لُطفَت بِدان 𝂨𝃫 ڤَز رَهبَرې اِلٰهې راهنَمـــام کُن 𝂩𝃭 چُنانکه نېک و حامِـــلِ نیکې هَستـی. 𝂨𝃫
+
+
+
+سەڤُّمین تَرانە
+
+هیرمَوس
+
+ناخوانده:
+
+تَ࣪و مِعمآرِ گُنبَـــدِ فِلَّ࣪کی، ڤَـــ کِلیسا 𝂨𝃫 مې‌شناسَد تُرآ چَو بانـــی‌اش. 𝂩𝃭 دَر عِـــشقِ تَو، هَ࣪م مَرا 𝂨𝃫 بَنآ کُن، اِی قُلـــۀِ 𝂩𝃭 هَمە࣪ اِمیال، و بُنیـــادِ 𝂨𝃯 هَ࣪مۀِ ڤَفآداران، یآخُدآ مَردُ࣪م‌عاشِ࣭ق. 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+پَنآه و سِ࣭پَرِ جـــانَم قَرار داده‌ـــ‌اَم تُرا 𝂨𝃫 مَ࣪را بِرِسآن بَندَرگـــاهَت، 𝂩𝃭 بـــاکِره خُ࣪دازا.ـــ 𝂨𝃫 باعِ࣭ثِ هَـــر نیکـــی 𝂩𝃭 هَستې، تَو اِ࣭ی تِکیەگـــاهِ 𝂨𝃯 هَ࣪مۀِ ڤَفآداران، بَـــرتَرین سِ࣭تودە. 𝂨𝃫
+
+
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+عُذرا زِ تَ࣪و می‌خْواهَـــم کَـــز خاشِ جـــان بِ࣭رَهان. 𝂨𝃫 طوفآنِ حُ࣪زنَم‌و آرـــام کُـــن 𝂩𝃭 مـــی‌طَ࣪لَبَم ازَت، 𝂨𝃫 چَون دُ࣪غدِ خُداـــئی، 𝂩𝃭 چِشمۀِ آ࣪شتی را زاـــدی، 𝂨𝃯 حامِـــلِ مَســـیح، اِی تَنهآ لایِ࣭قِ آ࣪فَرین. 𝂨𝃫
+
+
+
+کر جنوبی: جلال بر پدر و پسر و روح‌القدس؛
+
+مُ࣪ڤهِبآتِ نیکـــیَت بَر هَمِگـــان بِ࣭بَخشای. 𝂨𝃫 کِ࣭رفەگَ࣪رعَظېم و چِشمـــۀِ 𝂩𝃭 هَ࣪ر نیکې‌و آڤَردی. 𝂨𝃫 تَڤانآی قُدرَـــت را 𝂩𝃭 دَ࣪ر زِهدآنِ تَو بُـــردی. 𝂨𝃯 قادِ ـــرِ هَر کـــاری، اِی فَـــرخُنده زِ࣭ خُدا. 𝂨𝃫
+
+
+
+کر شمالی: همینک و همیشه و تا ابدالآباد. آمین.
+
+چُنآن امرآضِ شَدیـــد ڤـَــ هَ࣪ڤَس‌هـــایِ تاریـــک 𝂨𝃫 مې‌آزمایَند مَ࣪را؛ لُطفـــاً تَو 𝂩𝃭 مَرآ کُمَک کُنې. 𝂨𝃫 می‌شناسَمَــــت چُنیـــن: 𝂩𝃭 که تَ࣪و گَنجِ࣭ بی‌پایـــانی، 𝂨𝃯 بَ࣪خشَندۀِ اېستِ گِرآن‌بَهآتَرېن شَفا. 𝂨𝃫
+
+
+
+ترَوپاریای اتمام
+
+کر جنوبی:
+
+خَلـــاصِ مـــا 𝂩𝃭 دِه، بَندِگآنِ مِسکـــینَت، اِی تِئَوتَـــوکوس، 𝂣𝃬 چَون گُرېزیم پَنـــاهَت، پَس از ایزَـــد، 𝂨𝃯 حِمایَ࣪ت و قَلعـــۀِ ناگُـــشودَ ــــنی. 𝂨𝃫
+
+
+
+کر شمالی:
+
+بِنِـــگرـــای 𝂩𝃭 خادِ࣭مِ تُ࣪را به لُـــطف، خُدازایِ حَـــمـــید، 𝂣𝃬 هَم بَر رَ࣪نجِ دَردآمـــیزِ جِسمـــی‌ام، 𝂨𝃯 شَفا ده هَم بَر تَ࣪شڤیشِ رـــوحَم. 𝂨𝃫
+
+
+
+گُستَردۀِ سوزان
+
+شماس: اِی خُدا، مَطابِقِ ڤَفاداری‌ات بَر ما رَحم فَرمای؛ از تَو اِستِدعا می‌کُنیم، از ما بِشنَو و رَحمَت نَمای.
+
+کر و عڤام: خُداڤَند رَحم نَمای. (۳ بار)
+
+
+
+شماس: مُجِدَداً به خاطِرِ سَراُسقُفِ مان [اِسمَش] و اُسقُفِ مان [اِسمَش] دُعا می‌کُنیم و به خاطِرِ تَمامِ مَنصوبین و عَڤامِ مَسیح نیز دُعا می‌کُنیم.
+
+کر و عڤام: خُداڤَند رَحم نَمای. (۳ بار)
+
+
+
+شماس: مُجِدَداً استدعا می‌کُنیم بَرایِ رَحمَت، زِندِگی، صُلح، سَلامَتی، رَستگاری، نظارت و مراقبت، بَخشِش و آمُرزِشِ گُناهانِ خادِمانِ خُدا، هَمۀِ مَسیحیانِ مُتَّقی و راست‌کیش، ساکِنان و مِهمانانِ این شَهر و سَرزَمین، اعضا، شَوراکاران، یاڤَران، و کِرفه‌گَرانِ این کِلیسایِ مُقَدَّس.
+
+کر و عڤام: خُداڤَند رَحم نَمای. (۳ بار)
+
+
+
+شماس: مُجِدَداً دُعا می‌کُنیم به خاطِرِ خادِمانِ خُدا: [فِهرِست اِسم‌های‌ِ مُبتَلایان] و هَمۀِ بَرادَران و خْواهَرانِ مان دَر مَسیح.
+
+کر و عڤام: خُداڤَند رَحم نَمای. (۳ بار)
+
+
+
+کاهن: زیرا که خُدائی رَحیم و مُحِبّ هَستی و تُرا تَجلیل می‌کُنیم: پِدَر و پِسَر و روح‌اُلقُدُّس را؛ هَمینَک و هَمیشه و تا ابَداُلآباد.
+
+کر: آمین.
+
+
+
+کاثیزمای بین ترانەها
+
+کر جنوبی:
+
+مادَ࣪رِ خُدا، دَفآعِ مُجِّـــدانـــه، 𝂥𝂅𝂅𝃪 چِشمۀِ رَحمَ࣪ت، و قَلعۀِ پاید ـــارِ ما، 𝂥𝂅𝂅𝃪 دَ࣪ر اِنتِظـــار بِمـــان، ما را رَهائی ده زِ بَلآ ڤَ زِ࣭ خَطَ࣪ر، 𝂥𝂅𝂅𝃬 اِی بانو࣭ تَنهآ فِرزِ࣭ مَدَ࣪دِ ما. 𝂥𝂅𝂅𝃪
+
+
+
+چَهارُّمین تَرانە
+
+هیرمَوس
+
+ناخوانده:
+
+مَن شَنېدَمَت، خُ࣪داڤَند، 𝂨𝃫 رآجِع به اسرـــارِ طَرح‌اِ࣭لٰهیِ تَو، 𝂩𝃭 مُ࣪عجِزآتَت‌و اندېشیده‌ٰم، 𝂣𝃬 ڤَ࣪ اُلو࣭هیَّـــتَت‌و سِ࣭توده‌ٰم. 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+حِیرَ࣪تِ هَڤَ࣪س‌ها را، 𝂨𝃫 اِ࣭ی حامِ࣭لِ سَ࣪ر و ناخُدآیِ ما، 𝂩𝃭 ڤَ࣪ امڤآجِ شَرارَ࣪تَم را، 𝂣𝃬 یا خُدآعَرـــوس، آرام گَردانای. 𝂨𝃫
+
+
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+رَحمٰـــن را دَهر آ࣪ڤَرده‌ٰی، 𝂨𝃫 نِ࣭جات‌بَخشِ هَ࣪ر سِتآیِشگَ࣪رِ تَو. 𝂩𝃭 زِ࣭ ژَرفآیِ شَفَقَ࣪تِ خَود 𝂣𝃬 هَ࣪م بَر مَن بِبَـــخش، تَضَرُ࣪ع کُنَم. 𝂨𝃫
+
+
+
+کر شمالی: جلال بر پدر و پسر و روح‌القدس؛
+
+مُتنَعِ࣭مِ نِعمـــاتَت، 𝂨𝃫 مې‌خْوانېم با شُـــکر تُـــرآ، اِی مُنَزَه، 𝂩𝃭 چَ࣪ون خُدآمادَر می‌شنآسیمَت، 𝂣𝃬 ڤَ سِپاس گُزـــاریم زِ هِدایا. 𝂨𝃫
+
+
+
+کر جنوبی: همینک و همیشه و تا ابدالآباد. آمین.
+
+ما که د ـــاریم تُرآ به عُـــنـ𝂨𝃫ـڤآنِ تِ࣭کیه‌گــاه، ڤَ اُمېد، و دِ࣭ژِ سِـــفـ𝂩𝃭ـتِ࣭ نِجات، از هَر بَلا، نِجات 𝂣𝃬 مې‌شَڤیم، اِی بَـــرتَرین سِ࣭توده. 𝂨𝃫
+
+
+
+پَنجُّمین تَرانە
+
+هیرمَوس
+
+ناخوانده:
+
+مآ را، خُداڤَ࣪ند، 𝂣𝃬 بِتابآن با فَ࣪رمانآنِ خَود. 𝂨𝃫 بازوی تَو بُلَ࣪ند، بَر ما عَطـــاـ𝂩𝃭ـیِ صُ࣪لحِ تَ࣪و فَرمای، 𝂣𝃬 تَو اِ࣭ی عاشِ࣭قِ آدَمی. 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+شادېِ ناآلوـ𝂣𝃬ـدَ࣪ت‌و به࣪ مَن بِ࣭ده اِ࣭ی خالِ࣭ص. 𝂨𝃫 دِ࣭ل بِسآز لَبرېزِ شادې 𝂩𝃭 چَ࣪ون او࣭ را بُ࣪رده‌اې: 𝂣𝃬 سَ࣪رچِشمۀِ هَ࣪ر خَوشی. 𝂨𝃫
+
+
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+رَستگآر بُکُن ما را 𝂣𝃬 زِ࣭ هَر خَ࣪طَرات، اِی مُ࣪نَزَه، 𝂨𝃫 چَون تَ࣪و رَستگارې‌ِ جاڤېد 𝂩𝃭 ڤَ صُ࣪لحِ فَ࣪راتَـر 𝂣𝃬 زِ هَ࣪ر فَهمې را آڤَردەٰی. 𝂨𝃫
+
+
+
+کر جنوبی: جلال بر پدر و پسر و روح‌القدس؛
+
+تیرِگېِ گُناهـــاـ𝂣𝃬ـنَم‌و بِ࣭زِدآ، خُدآعَروس، 𝂨𝃫 با تآبِ نافِ࣭ذِ فُرو࣭غِ خْویش. 𝂩𝃭 مادَ࣪ر شُدەٰی بِدو: 𝂣𝃬 نورِ اِ࣭لٰهېِ آزَّلـی 𝂨𝃫
+
+
+
+کر شمالی: همینک و همیشه و تا ابدالآباد. آمین.
+
+ضَ࣪عفَم را دَڤآ 𝂣𝃬 کُ࣪ن— ساخته زِ دَ࣪ستِ هَ࣪ڤَس‌ها. 𝂨𝃫 به تیمآرَت لایِ࣭قَم بِدآن 𝂩𝃭 سَالِ࣭مَم کُن، اِی ناب، 𝂣𝃬 دَوباره با شَ࣪فاعآتِ خَود. 𝂨𝃫
+
+
+
+شِشُّمین تَرانە
+
+هیرمَوس
+
+ناخوانده:
+
+لابـــه‌ام راـــ 𝂩𝃭 به خُ࣪داڤَـــند مې‌ریزَم 𝂣𝃬 ڤَ࣪ به ڤِ࣭ی دِهَ࣪م بَیـــانی زِ رَـــنجَـــم. 𝂨𝃯 بِبېن که پُ࣪ر از شُرو࣭ر شُده دِ ـــلَـــم 𝂣𝃬 ڤَکنو࣭ن که جآنَم نَزدیـــکِ دوزَ࣪خ شُدەٰست 𝂨𝃫 چَ࣪ون یونِـــس اِ࣭ستِدعآ کُنَم 𝂣𝃬 یآ خُداـــم از فِســـاد بَرخیزآن مَرا. 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+چَون زِ مـــرگ، عُذراـــ، 𝂩𝃭 ڤَ زِ࣭ فِسآد و تَ࣪باهې— 𝂣𝃬 ڤَقتې سِرِـــشتَم اســـیرِ فِســـاد بود — 𝂨𝃯 ڤَز دَهآنِ مَـــوت، ذاتِ مَرا رَهـــا کَرد 𝂣𝃬 بآ دادَ࣪نِ خَود بـــه مَ࣪حدودۀِ مَوت، 𝂨𝃫 ایزَ࣪د و پو࣭رَت‌و بِخْواـــه 𝂣𝃬 ک‌آزآد شَڤَـــم از هَر کـــینِ هَر دُ࣪شمَنا. 𝂨𝃫
+
+
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+می‌داـــنَم تُرا 𝂩𝃭 حِ࣭فظِ زېستَم، و دَفـــاع، 𝂣𝃬 ڤَ࣪ سِپَـــرَش، عُذراـــ؛ جَ࣪معیّـَــتِ 𝂨𝃯 ڤَسڤَسه راـــ مې‌زِدآئی ڤَ حَملـــاـ𝂣𝃬ـتِ لَشکَـــرِ دیڤـــی رآ دور مې‌رانی. 𝂨𝃫 بې‌ڤَقفـــه اِ࣭لتمآس کُنَم: 𝂣𝃬 زِ فِسآدِ هَڤَـــس بِرَهان مَرا. 𝂨𝃫
+
+
+
+کر شمالی: جلال بر پدر و پسر و روح‌القدس؛
+
+دُختَـــر، نِجـــاـ𝂩𝃭ـتِ کامِ࣭لِ جانِ ما، 𝂣𝃬 آرامِـــش تَ࣪وئی دَ ـــر شِ࣭کَنجـــه ڤَ 𝂨𝃯 تِ࣭کیەگـــاه، دِ࣭ژِ ایستِ پَنـــاهی، 𝂣𝃬 ڤَز نو࣭رِ تَـــو تا ابَـــد ما شادی کُنیم. 𝂨𝃫 اِ࣭ی بانـــو، ما را هَمینَک 𝂣𝃬 از هَڤَ࣪س و خَطَـــر رَهایې بِده. 𝂨𝃫
+
+
+
+کر جنوبی: همینک و همیشه و تا ابدالآباد. آمین.
+
+بیمـــار، دِ࣭رـــاز 𝂩𝃭 کِشېدَم رویِ تَ࣪ختِ خَود. 𝂣𝃬 شَفآ بَرایِ جِـــسمَم مَوجـــود نیست. 𝂨𝃯 چَون او را زــــادی: خُدآ ڤَ ناجـــیِ 𝂣𝃬 کُلِ جَهـــان، رَهایـــی زِ࣭ هَر بېمارې، 𝂨𝃫 اِ࣭ی نیکـــو، مَ࣪را بِ࣭شنَڤـــا: 𝂣𝃬 زِ پوسِ࣭شِ مَرَـــض بَ࣪رخیزآن مَرا. 𝂨𝃫
+
+
+
+دُڤُّمین ترَوپارِ اتمام
+
+—(کر شمالی اڤلین تروپار اتمام را بخواند — «خلاص ما…» — و بعد، بجای دڤمین تروپار اتمام، سرود بعدی خوانده شڤد:)—
+
+کر جنوبی:
+
+اِی بیـــگُنــــاه 𝂩𝃭 که با لُغَ࣪تی کَلــــامِ جاڤیدو بُـــردی 𝂣𝃬 بی‌بَیآن اِلتِمآس کُن هَمینَـــک و دَر ا‌ِنتِها 𝂨𝃯 به اِ࣭ختیّآرِ مِـــهرِ مادَ ـــری. 𝂨𝃫
+
+
+
+—(در این موقع، دعای گستردۀ سوزان دوباره اجرا شڤد)—
+
+
+
+کوداکیون عادی
+
+کر شمالی:
+
+حِفاظَ࣪تِ ناشَ࣪رماندَنېِ مَسیـــحیّـــان 𝂥𝂅𝂅𝃬 میّانجې به خالِ࣭قِ اصلاً ناجُنبیـــدَنـــی، 𝂥𝂅𝂅𝃪 ناله‌هـــایِـــ مایِ عاصې را مَیاَندآز کِنـــار؛ 𝂥𝂅𝂅𝃬 بِجـــا، بِ࣭نِگَر حاجآتِ مان، ڤَ دِ࣭ه کُمَ࣪کِ مان، اِی نیـــک، بَ࣪ر نِدآگَران دَـــر ایمان: 𝂥𝂅𝂅𝃪 زـــود باش به شَفاعَ࣪ت، وـــ بـــه اِ࣭ستِدعا شِتآبـــی. 𝂥𝂅𝂅𝃬 دائِماً پاسبآنِ هَـــر 𝂥𝂅𝂅𝃮𝂅 تَکریم‌گَ࣪رَت اِی خُ࣪ـدازا.ـــ 𝂥𝂅𝂅𝃪
+
+
+
+سرودهای صعودی
+
+کر جنوبی سپس شمالی:
+
+از جڤانی‌ام به بعد هڤس‌های زیادی علیهِ من می‌جنگند، اما تو مدد و نجاتِ منی، ناجی. (۲ بار)
+
+
+
+کر جنوبی سپس شمالی:
+
+متنفران صهیون از دستِ یهڤه قادر مطلق رسڤا خواهند شد، چون عین چمن در آتش همەشان می‌پژمرند. (۲ بار)
+
+
+
+کر جنوبی: جلال بر پدر و پسر و روح‌القدس؛
+
+از روح‌القدس هر جان حیات می‌یابد، و با پاکسازی افراخته می‌گردد؛ از اتحادِ سگانه روشن گشته است، به یه رازِ قدسی.
+
+
+
+کر شمالی: همینک و همیشه و تا ابد الآباد. آمین.
+
+از روح‌القدس انهارِ فیض جاری اند؛ کلِ خلقت را سیراب می‌گردانند تا که حیات فرکاشته شڤد.
+
+
+
+پیش‌نشین انجیل
+
+قاری: می‌خْواهَم نامِ تَو را دَوره به دَوره به یادها آڤَرَم.
+
+
+
+—(کر جنوبی همان آیه را به لحن تکرار کنه. بعد، قاری آیۀ بعدی را بخْواند و کر شمالی آیۀ اصیل را به لحن تکرار کند.)—
+
+
+
+آیه: اِی دُختَر، گوش فَرا دِه، بِبین و گوش بِسپار، قَومِ خَود را فَراموش کُن، خانۀِ پِدَرَت را، و پادِشاه شیفتۀِ زیبائیِ تَو خْواهَد شُد.
+
+
+
+—(یک بار دیگر خْوانده شڤد. این دفعه، اڤلین کر اڤلین نصف آیه را بخْواند و دڤمین کر جڤاب دهد با بقیه.)—
+
+
+
+کر جنوبی:
+
+می‌خْواهَم نامِ تَو را دَوره
+
+کر شمالی: … به دَوره به یادها آڤَرَم.
+
+
+
+قرائت انجیل
+
+شماس: به خُداڤَند دُعا کُنیم که ما را لایِق سازَد تا اِنجیلِ مُقَدَّس را بِشنَڤیم.
+
+
+
+کر و عڤام: خُداڤَند، رَحم نَمای. (۳ بار)
+
+
+
+شماس: خِرَد. بُلَند شَڤید! اِنجیلِ مُقَدَّس را شَنَڤیم.
+
+کاهن: صُلح بَر هَمۀِ شُما باد.
+
+کر و عڤام: نیز بَر روحِ تو.
+
+
+
+شماس: خوانِش از اِنجیل است مُطابِقِ شَهادَتِ لوقایِ رَسولِ مُقَدَّس.
+
+کر و عڤام: جَلال بَر تَو، اِی پَرڤَردِگار؛ جَلال بَر تَو.
+
+کاهن: تَڤَجُه گُزاریم.
+
+
+
+—(در این موقع، کاهن یا شماس انجیل را بخواند از کتاب لوقا، باب اڤل، آیه‌های ۳۹–۴۹ و ۵۶.)—
+
+
+
+کر و عڤام: جَلال بَر تَو، اِی پَرڤَردِگار، جَلال بَر تَو.
+
+
+
+سرودهای بعد از ا‌ِنجیل
+
+کر جنوبی: جلال بر پدر و پسر و روح‌اقدس؛
+
+پِدَ࣪ر، پِسَ࣪ر، و رـــوح، ثالَُــوث د‌َر یِکپارچِگی، 𝂥𝂅𝂅𝃪 رَبِ رَحمَ࣪ت، خَطـــایِ࣭ زیآدَم‌و پـــاک کُن. 𝂥𝂅𝂅𝃪
+
+
+
+کر شمالی: همینک و همیشه و تا ابد الآباد. آمین.
+
+بِ࣭دین شَ࣪فاعـــاتِ حامِـــلِ خُدا،ـــ 𝂥𝂅𝂅𝃪 رَبِ رَحمَ࣪ت، خَطـــایِ࣭ زیآدَم‌و پـــاک کُن. 𝂥𝂅𝂅𝃪
+
+
+
+(به لحن ὅλην ἀποθέμενοι)
+
+کر جنوبی: ای خدا، مطابق ڤفاداری‌ات بر من رحم فرما، مطابق فراڤانی شفقت خود خطایم را بزدا.
+
+بانو࣭ نَسِ࣭پارې مَرا به پَناهگآهی اِنسآنـــی 𝂥𝂅𝂅𝃬 بَلکه بِ࣭پَذېر لابـــۀِ࣭ خادِ࣭می فُ࣪روتَـــن، اِی بانو ‌اقدَس. 𝂥𝂅𝂅𝃪 مُشکِلـــات دَ࣪ورَم گِ࣭رِفتَ࣪ند؛ دیگَ࣪ر نَتَ࣪ڤانَ࣪م 𝂥𝂅𝂅𝃬 تیرهایِ شِ࣭یطانان‌و تَ࣪حَمُـــل بُ࣪کُنَم از هَ࣪ر سو تَــــحتِ࣭ آتَ࣪ش، ناچـــار و خَ࣪راب چُنین. 𝂥𝂅𝂅𝃪 پَ࣪ناهگآهی نَ࣪دارَـــم ڤَ࣪ هیچ تَ࣪سلیَّـــت جُ࣪ز تَو نیز، تَو اِی 𝂥𝂅𝂅𝃪 مَ࣪لَکَ࣪ۀِ دَ ــــهر و࣭ اُمېد و حِمایَ࣪تِ پای‌بَندآن، 𝂥𝂅𝂅𝃬 به اِلتِمـــاسَم دِقَّ࣪ت دِه، و 𝂥𝂅𝂅𝃬 انجآم ده آن که بِـــهیـــنــــه‌ست 𝂥𝂅𝂅𝃪
+
+
+
+کر شمالی:
+
+هیچ‌کَ࣪س رَد نَ࣪کُن شَ࣪رمَنده، خَلڤَ࣪ت، و بې‌فایِده که می‌دَڤَند پَنآهَت، اِـــی بآکِره خُد ـــازـــا، 𝂥𝂅𝂅𝃪 بَلکه اِلتِمآس کُنَ࣪د و هَدیّهٰ‌ت‌و می‌گیرَ࣪د 𝂥𝂅𝂅𝃬 به انجـــامِ࣭ دَرخْواـــستِ‌ـــ خْویـــش. 𝂥𝂅𝂅𝃪
+
+
+
+کر جنوبی:
+
+دِگرسازې بَهرې رنجبَـــران 𝃇𝃫 ڤَ تَسکین بَهرې بیمـــاران ڤاقعاً هَستی، اِی بآکِره خُد ـــازا 𝂥𝃯 شَ࣪هر و قَ࣪ومَت‌ دِ࣭ه نِجـــات 𝂥𝂅𝂅𝃬 اِ࣭ی سَلآمِ دَ࣪ر مُحآصِرـــان و 𝂥𝂅𝂅𝃬 آرامِ࣭ش بَر دَ࣪رگیرآنِ طوفـــان نیز 𝂥𝂅𝂅𝃪 ڤَ تَنها حافِظِ࣭ ایمان‌داران (𝂥𝂅𝂅𝃪)𝂥𝂅𝂅𝃬
+
+
+
+شفاعت کبیر
+
+شماس: ای خدا، قوم خود را نجات فرمای و میراث خود را برکت نمای. بر دنیای خود با رحمت و شفقت بنگر. مسیحیان راست‌کیش را در جلال براَفراز و گنجینۀ رحمت‌های فراڤانِ ترا بر ما به‌افشان، به ڤاسطۀ شفاعاتِ بانوی پاکیزۀ مطلقِ مان: تئوتوکوس، مریمِ دائماً باکره، با قدرت صلیبِ حیات‌بخش و گرانبها، پاسبانیِ قدرت‌های بزرگڤارِ ناجسمیِ آسمانی، با استدعاهای پیش‌رو و نبیِ بزرگڤار مجلل: یحیای تعمید دهنده، همراهِ همۀ رسولانِ مجلل و قابلِ ستایش، پدرانِ مان در میانِ قدیسان و کاهن‌سرڤران و اموزگارانِ کیهانی: ڤاسیلِ کبیر، و سرمطرانان قُسطَنطَنیه: گریگوری عالمِ الهیات، و یوحنای طلادهان؛ سرمطرانان اسکندریه: آثاناسیوس، کِریل، و یوحنای رحیم؛ شگفت‌سازان: نیکولائوسِ اسقفِ شهرِ میرا، اسپِرِیدونِ اسقف شهرِ ترمیثوس، و نکتاریوسِ اسقفِ شهرِ پنطوپولیس؛ شهیدان: گِوارگئوسِ پیروز، دمیتریِ مُرّتَراڤ، ثئودورِ نَوسرباز، ثئودورِ فرمانده، و میناسِ شگفت‌ساز؛ کاهنانِ شهید: حرالابوس و الفثریوس؛ اِفّیمیای شهیدِ پر شکوه و فراشایستۀ تمجید، و بقیۀ شهیدزنان مقدس و مجلل: ثکلا، ڤارڤارا، آناستاسیا، اکاترینا، کِریاکی، فْواتینی، مارینا، پاراسکڤی، و ایرینی، و جمع شهیدانِ مقدسِ مجللِ پیروز، و جمعِ پدرانِ خدابرِ مان؛ نیاکانِ ایزدیِ دادگر: یوئاقیم و آنّا، و قدیس [اسمش] که امروز خاطرۀ او را جشن می‌گیریم، و همۀ مقدسانِ تو. ترا التماس می‌کنیم ای خداڤندِ یگانۀ رحیم، که مای گناه‌کاران را بشنڤی که به تو دعا کنیم و که بر ما رحمت فرمائی.
+
+کر و عڤام: خُداڤَند، رَحم نَمای. (۱۲ بار)
+
+
+
+کاهن: از رحمت و شفقت و محبت برای انسانیتِ پسرِ یگانۀ تو که با او و با روحِ قدوسِ مطلق و نیک و حیات‌بخش متبارکی، همینک و همیشه و تا ابدالآباد.
+
+کر جنوبی: آمین.
+
+
+
+هَفتُّمین تَرانە
+
+هیرمَوس
+
+ناخوانده:
+
+سه جَڤآنِ یَهو࣭دیّه، 𝂨𝃫 به ایمآن به ثالَ࣪وث قُدوـــس رِ࣭سیده، 𝂨𝃫 بآری دَر بآبِـــل 𝂣𝃬 شُعلەهآیِ کورـــه را پایمآل کُنان سُ࣪رودَند: 𝂨𝃫 اِ࣭ی خُدآیِ پِدَرآنِ مـــا، یَ࣪هُڤَ࣪ه مُتِ࣭بارِـــکی! 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+مُشتاقِ رَستگارې‌مون، 𝂨𝃫 اِ࣭ی ناجې، نِجـــاتِ ماها را نِ࣭هادی 𝂨𝃫 دَر زِهدآنِ باکِره࣪، چَون 𝂣𝃬 حافِ࣭ظِ جَهـــان نَمودەٰـــیٰ‌ش، تَو ساکِ࣭نِ دَهر. 𝂨𝃫 اِ࣭ی خُدآیِ پِدَرآنِ مـــا، یَ࣪هُڤَ࣪ه مُتِ࣭بارِـــکی! 𝂨𝃫
+
+
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+از پِسَ࣪رِ تَو بِ࣭خْواه، 𝂨𝃫 کامجو࣭، اِی مادَ ـــر، که رَحمَ࣪ت دِهَ࣪د به ما، 𝂨𝃫 تا از عِیب آزآد شَڤـــیم 𝂣𝃬 ڤَز نِ࣭جاسَ࣪تِ رـــوح، که نِداـــ زَنیم بآ ایمان: 𝂨𝃫 اِ࣭ی خُدآیِ پِدَرآنِ مـــا، یَ࣪هُڤَ࣪ه مُتِ࣭بارِـــکی! 𝂨𝃫
+
+
+
+کر جنوبی: جلال بر پدر و پسر و روح‌القدس؛
+
+ڤالِدەٰت‌و نَمودی: 𝂨𝃫 بُ࣪رج‌ِ ایمِنـــی، ڤَ چِشمۀِ لافِساد، 𝂨𝃫 گَنجینۀِٛ نِجآت، وـــ 𝂣𝃬 دَرڤازۀِ تَوبه بَرآیِ هَ࣪مه که سِ࣭تایَند: 𝂨𝃫 اِ࣭ی خُدآیِ پِدَرآنِ مـــا، یَ࣪هُڤَ࣪ه مُتِ࣭بارِـــکی! 𝂨𝃫
+
+
+
+کر شمالی: همینک و همیشه و تا ابدالآباد. آمین.
+
+ناخَوشېِ بَدَ࣪ن وـــ 𝂨𝃫 بیمارېِ جـــان را، اِی تَ࣪و خُدآمادَ࣪ر، 𝂨𝃫 شَفآ ده بَ࣪هرِ ماهـــا 𝂣𝃬 عُشآق که آییـــم به پَنـــاه اِلٰهېِ تَو. 𝂨𝃫 برآیِ ما، مَســـیح و ناجــــی را زادەـــ‌ای. 𝂨𝃫
+
+
+
+هَشتُّمین تَرانە
+
+هیرمَوس
+
+ناخوانده:
+
+پادِشـــاهِـــ 𝂩𝃭 آسِمآن را بِ࣭سُرای، 𝂣𝃬 با سِ࣭پاهـــانِ سِپِ࣭هرِ بی‌شُمـــار، ڤَـــ 𝂨𝃯 بېکران دَر هَـــر زَمانه او را ڤالـــا کُن. 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+بانو، نَدیـــده مَگـــیر 𝂩𝃭 خادِمآنِ گِدآت‌و 𝂣𝃬 که با شَرَـــف و شاد ـــی می‌سُرـــایَند 𝂨𝃯 ڤَ تُ࣪را، اِی دُختَـــر، هَ࣪ر دَورآنی می‌سِتـــایَند. 𝂨𝃫
+
+
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+می‌‌بَـــخشی 𝂩𝃭 شَفاهایِ فَ࣪راڤان، 𝂣𝃬 اِی باکره࣪، بَرآیِ هَـــر خْوآنَندەٰـــت کـــه 𝂨𝃯 زادَ࣪نَت‌و سِتـــایَد که فَ࣪را زِ࣭ گُفتـــاره. 𝂨𝃫
+
+
+
+کر شمالی: جلال بر پدر و پسر و روح‌القدس؛
+
+اِی لَبریـــزِ فِیض 𝂩𝃭 هَر مَرَ࣪ض و ضَ࣪عفِ جان 𝂣𝃬 ڤَ رَ࣪نجِ تَـــن را شَفـــا می‌بارـــانی، 𝂨𝃯 تا سِ࣭تایِشِ فَـــرِّ تُرآ نِگَ࣪ه بِد ـــاریم. 𝂨𝃫
+
+
+
+کر جنوبی: همینک و همیشه و تا ابدالآباد. آمین.
+
+تاختِ هَڤَـــس‌ها ڤَ 𝂩𝃭 حَمَلآتِ اِغڤـــا را 𝂣𝃬 عُذرا، خُنثٰـــی ڤَ زِ مـــا دور می‌رـــانی، 𝂨𝃯 ایدو࣭ن تا هَر دَورـــه سِتایِ࣭شگَرانِ تَـــو ایم. 𝂨𝃫
+
+
+
+نُهُّمین تَرانە
+
+هیرمَوس
+
+کر جنوبی:
+
+نِجـــات‌یاب از طَرېقَت، 𝂨𝃫 اِی باکِره، اقرـــارَت 𝂩𝃭 کُنیم که دَ࣪ر حَقیقَـــت تِئَوتَ࣪وکوسی 𝂨𝃫 با جَ࣪معِ کُ࣪رِ افلـــاک، مـــا بُزُ࣪رگَت مې‌داریم. 𝂨𝃫
+
+
+
+ترَوپاریا
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+رَدّ نَـــکُن رو࣭دِ اَ࣪شکَم 𝂨𝃫 چَ࣪ون تَو دَر زِهد ـــانَت 𝂩𝃭 او را بُردەٰـــی که هَر اـــشکِ هَر قېافه 𝂨𝃫 را زُدوده࣪ چون مَســـیح است: ایزَ࣪د آدَ࣪م‌زاده. 𝂨𝃫
+
+
+
+کر جنوبی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+اِی بـــاکِره دِلَ࣪م‌و 𝂨𝃫 پُ࣪ر کُن از مُژد ـــه، چَون 𝂩𝃭 شادېِ هَ࣪مه دَریـــافت کَ࣪ردی تو࣭ زِهدآن، 𝂨𝃫 ڤَ هَ࣪ر اندو࣭هِ گُنـــاه رـــا تَو بُ࣪ردەاې زِ بِین. 𝂨𝃫
+
+
+
+کر شمالی: ای تئوتوکوس‌اقدس، ما را نجات ده.
+
+عُذرـــا، بَندَ࣪ر و پَ࣪نـــاه 𝂨𝃫 ڤَ دِ࣭ژِ سِفت بَرـــایِ 𝂩𝃭 آنان باش که࣪ به سایـــە ات فَرار کُنَ࣪ند، 𝂨𝃫 ڤَ اِحاطەٰ࣪شان خُداـــزـــا تَو حِ࣭فاظَ࣪ت شَڤی. 𝂨𝃫
+
+
+
+کر جنوبی: جلال بر پدر و پسر و روح‌القدس؛
+
+پَرتَـــوهایِ࣭ فُرو࣭غَت 𝂨𝃫 دِ࣭ه، اِی دوشیزـــه، تـــا 𝂩𝃭 ما را رَوشَ࣪ن از ظُلمَـــتِ غِفلَ࣪ت کُنی 𝂨𝃫 که پارسانه اِعِلام کُنـــیم تُرآ، یَاخُ࣪دازا. 𝂨𝃫
+
+
+
+کر شمالی: همینک و همیشه و تا ابدالآباد. آمین.
+
+دَر مَـــنطِقۀِ بَ࣪لا، 𝂨𝃫 نِزآر، زِ کار اُفتـــادَم، 𝂩𝃭 ڤَ شُدم خْواـــر، یَاعُذرـــا، بِدونِ࣭ قُڤَّ࣪ت؛ 𝂨𝃫 مَرَ࣪ضِ مَ࣪را دَڤـــا ڤَـــ تَبدېل کُن به قُدرَ࣪ت. 𝂨𝃫
+
+
+
+عظیم‌نمایی‌ها
+
+عادیِ تضرعات
+
+کر جنوبی: فَ࣪رخُنده گُفتَ࣪نَت شایِستـــهٰ‌ست 𝂣𝃬 به࣪ راستې، ڤالِ࣭دۀِ خُ࣪داـــمون، 𝂣𝃬 دآئِماً سَعېد، هَڤاره مُ࣪بارَـــک، تِئَوتَ࣪وکوس، جُمله بې‌گُناه. 𝂨𝃫
+
+اَ࣪ز کِروبیّـــان شَ࣪ریف‌تَ࣪ر توئې 𝂨𝃫 ڤَ࣪ز سِرافیــــان تَـــو بی‌نَظـــیر بآشُکو࣭ه‌تَرې 𝂨𝃫 کَلَمَت‌اُللّٰه‌ راــــ زادې بِدو࣭نِ فِ࣭ســـاد؛ 𝂨𝃫 ڤاقعاً توئې خُداـــزاـــ؛ بُـــزُ࣪رگَت مې‌داریم. 𝂨𝃫
+
+
+
+کر شمالی:
+
+بآلا زِ࣭ افلـــاک توئی، ڤَ پاک‌تَ࣪ر 𝂨𝃫 از نورِ آفتـــآب، اِـــی تَ࣪و بانـــویِ کُلِ࣭ جَهان، 𝂨𝃫 مآ را رَ࣪هاندې زــِـ نِفرېنِ نیّاکآنـــی 𝂨𝃫 پَس سُ࣪رایآن تَجلیـــلَـــت گُـــزاریم بآ شَرَـــف. 𝂨𝃫
+
+
+
+کر جنوبی:
+
+آه زیرآ انبـــوهِ گُناهِ مَن 𝂨𝃫 جِ࣭سمِ مَن مَریـــض است، رو࣭حَم نیـــز هَ࣪مچُنین بیمآر 𝂨𝃫 دَ࣪ر لابه خْواندَ࣪نَـــت، مَن مې‌دَڤَم پَنآهَـــت، 𝂨𝃫 اِی تَ࣪و لَبرېزِ فِیـــض و اُمیـــدِ بی‌چآرِگـــان. 𝂨𝃫
+
+
+
+کر شمالی:
+
+اَ࣪ز خادِ࣭می نـــاشایِسته قَبـــول 𝂨𝃫 بُ࣪کُن لابه‌هـــا را به شَ࣪فاعَـــت به خاطِ࣭رِ ما 𝂨𝃫 بآ او که آڤَ࣪رد ـــی، اِی ڤآلِدۀِ مُ࣪نجـــی 𝂨𝃫 بَرآمون شَو شفـــیعِ، اِ࣭ی بانـــویِ جُمله࣪‌ جَهان. 𝂨𝃫
+
+
+
+کر جنوبی:
+
+مآ این تَرانـــه را مُشتآقانه 𝂨𝃫 شآد به تَو، خُداـــزاـــ، مې‌سُراـــئیم. ایدو࣭ن با هَم 𝂨𝃫 بآ یَحیآیِ پېش‌رَوـــ ڤَ جَ࣪معِ مُقَدَّ࣪ساـــن 𝂨𝃫 دُعآ کُن، تِئَوتَـــوکـــوس، بر مـــا شَفَقَ࣪ت آیَ࣪د. 𝂨𝃫
+
+
+
+کر شمالی:
+
+لآل شُده لبـــانِ࣭ بی تَ࣪قڤایآن 𝂨𝃫 که࣪ حُرمَ࣪ت‌و رَـــد کَـــرد به نِگـــارِ ڤالایِ تان 𝂨𝃫 که࣪ مَوسو࣭م به نِ࣭شان‌دِ࣭هِ حَ࣪قیقین رآه است 𝂨𝃫 تَ࣪ڤَسُطِ لـــوقا قِدیـــس و اِنجېل‌نِڤېس. 𝂨𝃫
+
+
+
+اضافه برای عیاد TODO
+
+
+
+—(در این موقع سرودگان بزرگنمای دیگر خْوانده شڤند: برای عید معبد محلی و اگر روز کنونی یه جشن کبیر باشد، بزرگنمای آن نیز خْوانده شڤد.)—
+
+
+
+آخرین عادیِ تضرعات
+
+کر تاق:
+
+جَ࣪معِ سِ࣭پاهـــانِ آسِ࣭مانې، 𝂨𝃫 پېشر‌َڤِ࣭ ڤالـــایِ‌ـــ رَ࣪ب، و رَسولان دَڤازدَه‌ـــ، 𝂨𝃫 ڤَ࣪ جمله قدېســـان، پِیڤَ࣪ند با تِئوتَو࣭کوس: 𝂨𝃫 دُعآ ڤَ شَفاعَـــت دِه بَراــــیِ نِجآتِ ما. 𝂨𝃫
+
+
+
+دعای سه‌قدوس
+
+—(دعای سه‌قدوس دوباره برخْوانده شڤد.)—
+
+
+
+اپولیتیکیای پشیمانی
+
+کر جنوبی:
+
+رَحمَت ده به ما اِی خُداڤَند، رَحمَت ده به ما، زیرا از هَرگونۀ دَفآعی ما عاجِریم. مایِ گُناه‌کاران این اِلتِماس را به دَستِ تَو می‌آڤَریم اِی سَرڤَرِ مان رَحمَت ده به ما.
+
+
+
+کر شمالی: جلال بر پدر و پسر و روح‌القدس؛
+
+اِی خُداڤَند رَحمَت دِه به ما چَون هَر اِعتِماد را سِپُرده‌ایم به تَو. بَر ما کُلِ خَشمِ خَود را نَریزان و خَطاهای زیادِ مان را به یاد نَسِپار، بَلکه الان هَمچَون رَحمٰن، ما را بِنِگَر و ما را از دُشمَنانِ مان بِرَهان، چَون خُدایِ مانی و قَومِ تُوئیم؛ هَمۀِ ما کارِ دَستِ خَودِ تَوئیم و حالا بَر اِسمِ تَو نِدا زَده‌ایم.
+
+
+
+کر جنوبی: همینک و همیشه و تا ابدالآباد. آمین.
+
+دَرڤازه‌هایِ شَفَقَت را بُگشای به ما اِی اقدَس و خُدازا، با هَر اُمیدِ مان سِپُرده به تَو، ناکام نَمانیم. به ڤاسِطۀ تَو بِرَهیم از هَر بَلا، چَون رَستگاری هَستی بَر نِژادِ مَسیحی.
+
+
+
+گستردۀ سوزان افزوده
+
+—(مجدداً گستردۀ سوزان برخْوانده شڤد ڤلی این دفعه، تضرعات اضافه هم برخْوانده شڤند بعد از خْواندن فهرست نام‌ها و پیش از مهر کاهن:)—
+
+
+
+شماس: مُجِدَداً دُعا می‌کُنیم بَرای حِفاظَتِ این کِلیسای مُقَدَّس و این شَهر و هَر شَهر و هَر دِه، و رَهانیدَنِ شان از مَرَض، طاعون، گُرُسنِگی، ڤَز هَر زِلزِله، سِیل، آتَش، شَمشیر، ڤَز یورِشِ دُشمَنان، جَنگ داخِلی، ڤَز گَشتِگیِ غِیرِ مُنتَظِره. و بَرای رَحمَتِ هو که مُحِبِ هَمۀ افراد هست، که بَخشَنده و مِهرِبان باشَد و چَو خُدای نیکِ مان دِقَّت دِهَد به ما، ڤَ بَرای این که هَر خَشم و مَرَض را که بَرعَکسِ ما کار می‌کُنَد از ما هو به‌افشانَد و دور بِرانَد، و ما را از داڤَریِ آیَندۀ دادڤَرِ خَود که زود می‌آیَد نِجات دِهَد، و رَحمَت دِهَد به ما.
+
+کر و عڤام: خداڤند رحم نمای. (۳ بار)
+
+
+
+شماس: مجِدَداً دُعا می‌کُنیم که خُدای خُداڤَند صِداهای لابه‌های مای گُناهکاران را بِشنَڤَد و رَحمَت فرمایَد بَر ما.
+
+کر و عڤام: خداڤند رحم نمای. (۳ بار)
+
+
+
+شماس: ما را بِشنَڤای، یاخُدای ناجیِ مان، اُمیدِ هَر دَڤائِرِ زَمین و بَرای آنانی که دور بَر دَریا هَستَند، و بَر ما شَفَقَت نَمای، اِی اُستادِ ما، و نیز بَر گُناهانِ فَراڤانِ مان، و بَر ما رَحمَت فَرمای.
+
+کر و عڤام: خداڤند رحم نمای. (۳ بار)
+
+
+
+کاهن: زیرا که تَو یه خُدای رَحیم هَستی، و تُرا تَجلیل می‌کُنیم، پِدَر و پِسَر و روح‌اُلقُدُّس را، هَمینَک و هَمیشه و تا ابَداُلآباد.
+
+کر و عڤام: آمین.
+
+
+
+برکت مرخصی
+
+کاهن: مَسیح که هَست که خُدای ڤاقعیِ مان است، به شَفاعاتِ مادَرِ پاکِ مُطلَق و جُمله بیگُناهِ خْویش، ڤَز قُدرتِ صَلیبِ عَزیز و حَیات‌بَخش، حِفاظَتِ قُدرت‌های بی‌جِسمیِ گِرامیِ آسِمانی، اِلتِماس‌های نبیِ شَریف و باشُکوه یَحیای پیش‌رَڤِ تَعمید دَهَنده، و رَسولانِ مُقَدَّس و مُجَلَّل و سِتودَنی، شَهیدانِ پیروز، و پِدرانِ عادِلِ خُدابَر، نیاکانِ گِرامیِ مَسیح، یَؤاقیم و آنّا، و هَمۀ مُقَدَّسان، رَحمَت فَرمایَد بَر ما و نِجات دِهَد، چَون نیکو و عاشِقِ آدَمیَّت هَست.
+
+
+
+ثئوتوکیای مرخصی و نیایش
+
+(به لحن Ὅτε ἐκ τꙋ͂ ξύλꙋ)
+
+کر جنوبی:
+
+دَ ـــستَـــت نیرومَ࣪ند، تَو حِ࣭فاظَ࣪ت 𝂥𝂅𝂅𝃩 بَ࣪ر پَناه‌دَڤآنِ مَؤمِـــنَـــت می‌بَـــخشی، نیکو࣭. 𝂥𝂅𝂅𝃫 مآیِ عآصیّان شَفېعی جُ࣪زِ تَـــو نَ࣪داریم 𝂥𝂅𝂅𝃩 که࣪ دُعـــا بی‌ڤَقفه࣪ کُنَـــی 𝃄𝃯 به حُضو࣭رِ خُدآ بَـــرآمون تَ࣪قصیرآت‌بَران دَر هَ࣪ر مَرَـــض و خَطَـــر. 𝂥𝂅𝂅𝃩 پَـــس مـــی‌خَ࣪میم فُ࣪روتَن پېشَـــت 𝂥𝂅𝂅𝃫 اِ࣭ی مادَ࣪رِ بَ࣪غِ بَریـــن گـــاه 𝃄𝃬 خآدِم‌هآت‌و بِ࣭رَهآن از فَ࣪لاکـــات. 𝂥𝂅𝂅𝃩
+
+
+
+کر شمالی:
+
+بـــه اَـــندو࣭هگینآن تَوئې شادی 𝂥𝂅𝂅𝃩 ڤَ࣪ به مَظلومآن حِفاظَـــت، بـــه گُرُ࣪سنِگآن غَذا، 𝂥𝂅𝂅𝃫 به࣪ کورآن عَصآ، به غَ࣪ریبـــان تَ࣪سلیَّ࣪ت 𝂥𝂅𝂅𝃩 عِ࣭یادَ ـــت بَ࣪هرِ مَ࣪ساکیـــن 𝃄𝃯 ڤَ به مُ࣪بتَلایآن، آـــشتې و سآیِبآنی، ڤَ࣪ به یَتیمـــان یاڤَری. 𝂥𝂅𝂅𝃩 مـــادَ ـــرِ࣭ خُدآیِ بَرېن گاه، 𝂥𝂅𝂅𝃫 بِ࣭شِتاب اِی پآک، به لابـــه‌مون: 𝃄𝃬 بِ࣭رَهآن خِدمَ࣪ت‌کارآنَت از گُناه 𝂥𝂅𝂅𝃩
+
+
+
+—(بعد، دو ثئوتوکیای دیگر. اڤلش در قصمت مخالف چهارمین آڤاز در هشتآڤازنامه پیداست ڤلی رسمی است که در این موقع هردو بنظر دڤمین آڤاز خْوانده شڤند.)—
+
+
+
+کر جنوبی:
+
+بِـــپَذیر اِ࣭ی بانـــو دُعاهـــا زِ࣭ خُدّآمَت و 𝂥𝂅𝂅𝃩 رَهآ بُکُ࣪ن ما را 𝃄𝃬 از نیّآز، تَشڤېش، و هَ࣪ر اندوه. 𝂥𝂅𝂅𝃩
+
+
+
+کر شمالی:
+
+سِپُـــردَم به پېشِ تَـــو هَ࣪ر اُمیـــدَم، خُدآمادَر. 𝂥𝂅𝂅𝃩 لُطفاً مَرا نِگـــه‌داـــ𝃄𝃬ـرې در بَندَرگآهِ تَو. 𝂥𝂅𝂅𝃩
+
+
+
+پایان
+
+کاهن: با شَفاعاتِ پِدَران و مادَرانِ مُقَدَّسِ مان، اِی خُداڤَند یَسوعِ مَسیح، بَر ما رَحمَت و نِجات فَرما.
+
+کر و عڤام: آمین.
+
+
+
+Appendix
+
+Attributions
+
+Everything in this document, unless noted otherwise, was translated by me, Zachari Khayati Darian (Anastazius Khayatidaryan).
+
+The verses at یهڤه خداست we're taken directly from the ecumenical translation of the holy scriptures «ترجمۀ بین الکلیسائی» also known as «ترجمۀ ترسایان».
+
+The verse before each of the troparia of the canon was suggested by our brother Petros (Kyan). Prior to his suggestion, what I had was «قدسی‌ترین ثئوتوکوس، ما را نجات بده.»
+
+Early on in the process, there was an anonymous user in telegram who gave me a lot of feedback on odes I and III. Unfortunately, I cannot identify this person, and he has deleted his account, and later, I lost access to my account.
+
+
+
+A Note About the Tetragramaton
+
+You'll notice that in various places we translated what in Greek is «Κύριος» ( “Lord”) into Persian as the tetragramaton itself, rather than the equivalent, خداڤند or similar. This is to align with the aforementioned ecumenical translation which favours the use of the tetragrammaton over its euphemism. This may be seen as a questionable choice as the Septuagint favors the euphemism over the actual tetragrammaton, and therefore some may decry it as an unorthodox decision. From my perspective, the ecumenical translation is the closest thing that we have to an Orthodox translation of the scriptures in the Persian language, so I would rather align with it than to not do so. For anyone who disagrees, the word can be substituted easily with خداڤند as needed, as they are both trisyllabic.
+
+
+
+A Note About Orthography
+
+You will also notice that my spelling of certain words is a little bit non-standard. For example, I used the archaic Persian letter, veh ڤ, as a substitute for waw و in some places. This is because we have a great need for precision in the translation of metrical texts. And the current Persian orthography harkens back to a time when rather than a solid V sound, the Persian language was pronounced with a bilabial fricative. Now, the phonetics have diverged, and in the modern orthography, the one و letter is overloaded with at least four different pronunciations:
+
+دو (ō)
+
+دعوا (v)
+
+لوله (ū)
+
+خواهش (silent or w)
+
+And sometimes, the same word with the same spelling can be pronounced in multiple ways with different syllabic contents. This is fine, but within this domain we have a greater need for precision, so we've brought back the old persian letter ڤ so that و is slightly less overloaded.
+
+Now, ـَو can unambiguously make the ō phoneme, and ـو/ـُو can unambiguously make the ū phoneme, while ـْو can make the silent phoneme.
+
+Without this ـَو might have been “av,” ـُو might have been “ov,” etc. and there is no standard diacritical method to distinguish between these sounds. With the return of this old letter, however, the diacritics become sufficient to describe the phonemes with adequate specificity.
+
+Next, you will notice sometimes we doubled the diacritics or used the nasalized forms of the diacritics. This can be thought of generally as an indication of accentuation. However, within metrical hymnography, its purpose is more precisely to indicate downbeats and melodic high points.
+
+You will also notice that certain syllables are elongated with the کــــــــــــشیده symbol. This can generally be thought of as an indication of elongated phonemic vowel length. However, more precisely in the context of metrical hymnography, it is being used to indicate when a syllable is held for longer than one beat.
+
+
+
+LICENCE
+
+LITURGICAL TEXT AND PLAIN-TEXT COLLABORATION LICENSE (LTCL)
+
+Version 1.0 Copyright © 2026 Zachari Khayati Darian. All rights reserved.
+
+
+
+PREAMBLE
+
+This License governs the use, copying, modification, creation of derivative works, and distribution of the literary, musical, hymnographical, and liturgical works contained within this repository or project (hereinafter, the "Licensed Material").
+
+The express intent and purpose of this License is to:
+
+Authorize free, unrestricted use of the Licensed Material within ecclesiastical and church services worldwide;
+
+Establish a structured framework for open, community-driven collaboration restricted strictly to unformatted plain text and authorized, controlled collaborative data states; and
+
+Strictly reserve to the Licensor all rights regarding commercial exploitation, typesetting, layout design, and publication of formatted, styled, or compiled editions across any medium.
+
+SECTION 1: DEFINITIONS
+
+"Derivative Work" or "Adapted Material" shall be interpreted expansively and includes, but is not limited to, any translation, arrangement, alteration, compilation, export, transformation, or technical conversion of the Licensed Material into any other file format, markup standard, document structure, or data representation, regardless of whether the underlying natural-language text or liturgical notation has been modified.
+
+"Licensor" refers exclusively to the author, copyright holder, and creator of the Licensed Material: Zachari Khayati Darian.
+
+"Natural Languages" refers strictly to human spoken and written languages (e.g., English, Persian, Greek). Programming languages, domain-specific scripting languages, and markup languages do not constitute natural languages.
+
+"Redistribution" means any act of sharing, transmitting, publishing, copying, or making available the Licensed Material, in whole or in part, to any third party, whether publicly or privately, through any medium or technology.
+
+"SymphoniaXDC Internal YDoc State" refers to the open-source, CRDT-based operational data structure native to the SymphoniaXDC Scorewriter Application. Because this state handles collaborative synchronization and rich-text formatting properties, its redistribution inherently carries structured markup and formatting capabilities that require careful handling.
+
+"Strict Plaintext" refers exclusively to UTF-8 encoded text (.txt) files devoid of any rich-text formatting, styling attributes, markup tags, or embedded code blocks, subject to the explicit structural limitations set forth in Section 4.
+
+SECTION 2: GRANT OF LICENSED RIGHTS
+
+Subject to full compliance with the terms and conditions set forth herein, the Licensor hereby grants to any individual or entity (hereinafter, "You") a worldwide, royalty-free, non-sublicensable, non-exclusive, and revocable license to exercise the following rights:
+
+Ecclesiastical and Liturgical Use: You may incorporate, perform, and utilize the Licensed Material freely within divine services, liturgical rites, and private devotions with no financial or operational restrictions.
+
+Restricted Derivative Works: You may translate, adapt, edit, or otherwise create derivative works of the Licensed Material solely on the condition that such derivative works are created, maintained, and stored exclusively in Strict Plaintext (.txt) format or within the Internal YDoc State of a localized instance of SymphoniaXDC, operating strictly under the collaborative framework set forth in Section 3.
+
+Restricted Redistribution: You may redistribute derivative works created under this License only in Strict Plaintext (.txt) format, and only when accompanied by an unaltered, full copy of this entire License document. Redistribution of the SymphoniaXDC Internal YDoc State independently from active collaborative channels is strictly prohibited absent explicit, prior authorization from the Licensor.
+
+Contribution Incentive: You are encouraged to submit your modifications, translations, and textual contributions back to the Licensor for evaluation and potential inclusion in the official repository. Accepted contributions will be credited appropriately by name or pseudonym within the repository and in subsequent official publications.
+
+SECTION 3: CONDITIONS GOVERNING THE SYMPHONIAXDC INTERNAL YDOC STATE
+
+Collaborative Nature and Formatting Capability: The parties recognize that the SymphoniaXDC Internal YDoc State manages rich-text data and synchronization for collaborative editing. Uncontrolled dissemination of this state outside of intended collaborative environments risks unregulated rich-text distribution that bypasses plaintext constraints.
+
+Absolute Prohibition on Unauthorized Sharing: You are strictly prohibited from redistributing, exporting, sharing, or transmitting any instance of the SymphoniaXDC Internal YDoc State independently or outside of authorized collaboration.
+
+Conditions of Permitted Sharing: Redistribution or peer-to-peer sharing of the SymphoniaXDC Internal YDoc State is authorized exclusively when the Licensor is present and participating as an active member within the immediate communication channel, thread, group chat, or peer-to-peer network (such as a Delta Chat webxdc session) wherein the data state is shared.
+
+Revocability: Any authorization granted by the Licensor to share or handle the SymphoniaXDC Internal YDoc State is provisional, non-transferable, and subject to immediate revocation by the Licensor at any time, with or without notice.
+
+SECTION 4: STRICT FORMAT RESTRICTIONS FOR DISTRIBUTION AND PRINTING
+
+Any authorized redistribution or local utilization of the Licensed Material or derivative works must strictly satisfy the following technical constraints:
+
+Prohibited Formats: You may neither print nor share formatted, styled, or beautified editions—including but not limited to PDF files (.pdf), Word processing documents (.doc, .docx, .odt, .rtf), LaTeX source or output (.tex), electronic publications (.epub), or web markup (.html, .htm, .xhtml)—not even for ecclesiastical or church use.
+
+Permitted Printing: You are permitted to print the material exclusively from the strictly plain-text (.txt) version.
+
+Prohibited Text Elements: Distribution files in .txt format must contain no Markdown syntax (including CommonMark or GitHub-flavored variants), no HTML or XML tags, no LaTeX or TeX source fragments, and no embedded code blocks of any programming language.
+
+Permitted Plaintext Elements: Permitted content is restricted to standard text, headings, lists, timestamps, checkboxes, TODO/DONE markers, and basic inline text formatting.
+
+Orthographic and Liturgical Protection: Specialized historical or regional orthography (including archaic glyph variants such as ڤ, ڡ, ۆ, ێ, and specific diacritical or nasalized accent markings) as well as liturgical, metrical, and parallage chant notations are deemed integral components of the natural-language text. Their inclusion shall not be construed as prohibited markup or code.
+
+Tables: Tables are permitted solely in basic ASCII text format utilizing standard pipe (|) and hyphen (-) characters, and must be entirely free of dynamic formulas, macros, or automated export directives.
+
+Encoding: All files must be encoded strictly in standard UTF-8. Any attempt to circumvent these format controls—including file renaming, data obfuscation, or embedding forbidden formats within a .txt container—constitutes a material breach of this License.
+
+SECTION 5: RESERVATION OF PUBLISHING, TYPESETTING, AND COMMERCIAL RIGHTS
+
+Commercial Exploitation: All commercial rights, including the right to publish, sell, license, or monetize the Licensed Material in any physical or digital medium, are expressly and entirely reserved by the Licensor.
+
+Typesetting and Layout Monopoly: All rights to compile, format, export, style, layout, or produce typeset editions of the Licensed Material—including but not limited to PDF generation, LaTeX compilation, EPUB design, HTML web publishing, and physical book printing—are exclusively reserved to the Licensor.
+
+Prohibition of Downstream Formatting: Third parties are strictly prohibited from publishing, distributing, or sharing formatted, beautified, or layout-processed editions (such as typeset PDF scores, liturgical books, or web portals) derived from the Licensed Material.
+
+Receipt of Formatted Copies and Plain-Text Extraction: The receipt, possession, or acquisition of an official typeset, styled, or compiled copy of the Licensed Material by any means (including, without limitation, PDF, EPUB, HTML, or printed book formats distributed by or authorized by the Licensor) does not grant You any right to redistribute that formatted file, bundle, or container, regardless of whether the contents are altered or unaltered. However, You may manually extract or select the raw text contents from such received copies solely for the purpose of repurposing, editing, or redistributing them strictly in compliance with the Strict Plaintext (.txt) formatting rules set forth in Section 4.
+
+Rationale: The Licensor intends to publish these hymns in professionally typeset books. Until that time, keeping digital editions in simple plaintext formats provides the necessary framework for open collaboration and free liturgical use, whilst protecting the Licensor's ability to release polished printed editions in the future.
+
+SECTION 6: ATTRIBUTION AND PRESERVATION
+
+Whenever you distribute an authorized derivative work or plain-text file under this License, you must ensure that:
+
+Clear and prominent attribution is given to the original creator and Licensor (Zachari Khayati Darian);
+
+A clear notice is included indicating if the text has been modified from the original; and
+
+The unaltered contents of this entire License are fully included as an appendix or accompanying file with every distribution.
+
+SECTION 7: TERMINATION
+
+This License shall remain in effect for the full statutory duration of copyright and similar rights.
+
+Any breach, failure, or circumvention of the terms, format constraints, or restrictions set forth herein shall result in the automatic and immediate termination of all rights granted to You under this License.
+
+Upon termination, You must immediately cease all use, possession, and redistribution of the Licensed Material and any derivative works derived therefrom. Termination of rights shall not prejudice any legal remedies available to the Licensor under applicable law.
+
+SECTION 8: DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY
+
+AS-IS BASIS: THE LICENSED MATERIAL IS PROVIDED BY THE LICENSOR ON AN "AS-IS" AND "AS-AVAILABLE" BASIS, WITHOUT WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+LIMITATION OF LIABILITY: IN NO EVENT SHALL THE LICENSOR BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR RELATING TO THIS LICENSE OR THE USE OF THE LICENSED MATERIAL, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
